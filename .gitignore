@@ -72,3 +72,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Content/Survival_Character/**
+Content/__ExternalActors__/Survival_Character/**
+Content/__ExternalObjects__/Survival_Character/**
+
+Content/__ExternalActors__/Survival_01/**
+Content/__ExternalObjects__/Survival_01/**
